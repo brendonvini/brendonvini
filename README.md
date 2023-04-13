@@ -1,4 +1,4 @@
-### Olá, eu sou o Brendon Vinicius 👋
+### Olá, me chamo Brendon Vinicius 👋
 
 [![Lindekin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendon-vinicius-11923623a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brendon_vini/)
